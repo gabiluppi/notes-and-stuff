@@ -1,8 +1,8 @@
 # Part 1: The Basics of Machine Learning
 
-### Chapter 1: The Machine Learning Scenario
+### Chapter 1: The Machine Learning Landscape
 
-O primeiro capítulo dá uma introdução sobre o conceito de machine learning.
+O primeiro capítulo introduz sobre conceitos de machine learning.
 
 > *É o campo de estudo que possibilita aos computadores a habilidade de aprender sem explicitamente programá-los*
 > ***Arthur Samuel, 1959***
