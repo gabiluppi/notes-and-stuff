@@ -1,6 +1,6 @@
 
 
-# Books
+# Books to read
 
 | Name                                                                                                         | Author             | Area                             | Language   |
 | ------------------------------------------------------------------------------------------------------------ | ------------------ | -------------------------------- | ---------- |
@@ -25,7 +25,7 @@
 | C++ in Embedded Systems: A practical transition from C to modern C++                                         | Amar Mahmutbegovic | Embedded Systems                 | English    |
 | CNC Machining Handbook: Building, Programming, and Implementation: Building, Programming, and Implementation | Alan OVERBY        | Embedded Systems                 | English    |
 
-# Papers
+# Papers to read
 
 | Name                                                                       | Author               | Area                                              | Language |
 | -------------------------------------------------------------------------- | -------------------- | ------------------------------------------------- | -------- |
@@ -43,7 +43,7 @@
 | Energy-Efficient Neural Network Accelerator Design                         | Vivienne Sze         | Computer Architecture, Energy Efficient Computing | English  |
 |                                                                            |                      |                                                   |          |
 
-# Courses
+# Courses to take
 
 | Name                                | Institution              | Area                             | Language |
 | ----------------------------------- | ------------------------ | -------------------------------- | -------- |
